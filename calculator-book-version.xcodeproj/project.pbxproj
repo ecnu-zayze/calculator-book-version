@@ -15,6 +15,7 @@
 		1869C5232436255500FA4B6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1869C5212436255500FA4B6B /* LaunchScreen.storyboard */; };
 		1869C52E2436255500FA4B6B /* calculator_book_versionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869C52D2436255500FA4B6B /* calculator_book_versionTests.swift */; };
 		1869C5392436255500FA4B6B /* calculator_book_versionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869C5382436255500FA4B6B /* calculator_book_versionUITests.swift */; };
+		1869C54724362C3300FA4B6B /* CalculatorButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1869C54624362C3300FA4B6B /* CalculatorButtonItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1869C5342436255500FA4B6B /* calculator-book-versionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "calculator-book-versionUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1869C5382436255500FA4B6B /* calculator_book_versionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculator_book_versionUITests.swift; sourceTree = "<group>"; };
 		1869C53A2436255500FA4B6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1869C54624362C3300FA4B6B /* CalculatorButtonItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorButtonItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				1869C5162436255000FA4B6B /* AppDelegate.swift */,
 				1869C5182436255000FA4B6B /* SceneDelegate.swift */,
 				1869C51A2436255000FA4B6B /* ContentView.swift */,
+				1869C54624362C3300FA4B6B /* CalculatorButtonItem.swift */,
 				1869C51C2436255500FA4B6B /* Assets.xcassets */,
 				1869C5212436255500FA4B6B /* LaunchScreen.storyboard */,
 				1869C5242436255500FA4B6B /* Info.plist */,
@@ -269,6 +272,7 @@
 			files = (
 				1869C5172436255000FA4B6B /* AppDelegate.swift in Sources */,
 				1869C5192436255000FA4B6B /* SceneDelegate.swift in Sources */,
+				1869C54724362C3300FA4B6B /* CalculatorButtonItem.swift in Sources */,
 				1869C51B2436255000FA4B6B /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
